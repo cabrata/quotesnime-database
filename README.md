@@ -4,7 +4,7 @@ A collection of quotes from various anime.
 
 ## 📖 Information
 
-* **Last updated:** `2025-05-18 21:35:06 WIB`
+* **Last updated:** `2025-05-19 00:08:23 WIB`
 * **Total quotes:** `1921`
 
 ## 🚀 Usage
