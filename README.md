@@ -1,12 +1,20 @@
 # quotesnime-database
-Fetching some quotes on anime.
 
-## More info
-Last update: 2025-05-18 21:30:32 WIB
-Total Quote: 1921
+A collection of quotes from various anime.
 
-## Usage
-You can try access file by URL this:
+## 📖 Information
+
+* **Last updated:** `2025-05-18 21:35:06 WIB`
+* **Total quotes:** `1921`
+
+## 🚀 Usage
+
+You can access the JSON file via the following URL:
+
 ```
 https://cabrata.github.io/quotesnime-database/quotes.json
 ```
+
+## 📎 Notes
+
+This file can be used for development projects, applications, or any other purpose that requires anime quotes in JSON format.
